@@ -1,4 +1,4 @@
-# Data Structures and Algorithms
+# Algorithms w/ Java
 
 This repo is all about some practice for myself. Altough most of those algos are being implemented all around the web such as leetcode, there may be some algos which are not there or maybe there are someone out there who are not still aware of leetcode like resources. There will be git repos for a few more languages, but this one is for Java. I have seperated them to different repos to obtain conflicts with different IDEs etc.
 
