@@ -9,7 +9,7 @@ This repo is not for interview preperation, or trying to make another data mess 
 # Programming languages used/planned to be at this repo
 * Java
 
-# Other languages at under my account for the same purpose 
+# Other languages under my github account for the same purpose 
 * Kotlin
 * *Swift (TBD)*
 * *JS (TBD)*
